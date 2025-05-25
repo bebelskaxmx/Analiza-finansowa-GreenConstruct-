@@ -11,11 +11,10 @@ Celem opracowania było przygotowanie realistycznej analizy finansowej przedsię
 
 2. Wyniki projektów
 
+![moja_tabela](https://github.com/user-attachments/assets/ac6eaaf7-68b9-46ca-97c1-025431fa1b3b)
 
-![moja_tabela](h![zysk netto na projekt](https://github.com/user-attachments/assets/de217961-d0b5-4463-8d8b-4f37346057c1)
+![zysk netto na projekt](https://github.com/user-attachments/assets/41d39f26-811e-495c-a311-1256366cb146)
 
-
-ttps://github.com/user-attachments/assets/123db994-b1d8-4500-b626-1deab6f7458c)
 
 3.Wskaźniki finansowe
 
